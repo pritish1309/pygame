@@ -1,0 +1,10 @@
+India:Delhi
+Brazil:Rio De Jenerio
+Ethiopia:Adis Ababa
+Israel:Jerusalem
+Bhutan:Thimpu
+Pakisatn:Islamabad
+Nepal:Kathmandu
+China:Beijing
+Afghanistan:Kabul
+Russia:Moscow
